@@ -20,6 +20,6 @@ harvester = Car.new( "International", "Harvester", "tractor-trailer", leno, clac
 wrx = Car.new( "Subaru", "WRX", "sport car", seinfeld, dom )
 sls = Car.new( "Mercedes", "SLS AMG", "sport car", mayweather, dom )
 s90 = Car.new( "Volvo", "S90", "luxury car", leno, brian )
-s_class = Car.new( "Mercedes", "S-class", "luxury carr", seinfeld, brian )
+s_class = Car.new( "Mercedes", "S-class", "luxury car", seinfeld, brian )
 
 binding.pry
